@@ -24,6 +24,14 @@ export default function Home() {
               height={24}
               priority
             />
+            <Image
+              src="/vercel.svg"
+              alt="Vercel Logo"
+              className={styles.vercelLogo}
+              width={100}
+              height={24}
+              priority
+            />
           </a>
         </div>
       </div>
@@ -86,7 +94,7 @@ export default function Home() {
             Deploy <span>-&gt;</span>
           </h2>
           <p>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
+            Instantly deploy  Next.js site to  URL with Vercel.
           </p>
         </a>
       </div>
